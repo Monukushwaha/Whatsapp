@@ -1,0 +1,197 @@
+body
+{
+    margin: 0;
+}
+
+p
+{
+    font-family: ubuntu;
+
+}
+a
+{
+    color: #fff;
+    font-size: 13px;
+}
+.headerm
+{
+    background-color: #1ebea5;
+    display: flex;
+    width: 100%;
+    height: 93px;
+    }
+.head{
+    display: flex;
+    align-items: center;
+    
+}
+
+.header
+{
+display: flex;
+justify-content: center;    
+color: azure;
+width: 40%;
+
+  }
+.header2{
+justify-content: space-between;
+width: 50%;
+font-weight: 500;    
+    
+}
+
+
+
+.fixed{
+    position: fixed;
+    top: 0;
+    width:100%;
+}
+.pimain
+{
+display: flex;
+justify-content: center;
+margin: 120px;
+}
+.prmain
+{
+margin-top: 100px;
+
+}
+.prag{
+    line-height: 1px;
+    margin-bottom: 20px;
+}
+.pra{
+font-size: 30px;
+    margin-bottom: 0px;
+    
+}
+.prb
+{font-size: 30px;
+    margin-top: 0px;
+    
+}
+.prc
+{font-size: 18px;
+    line-height: 10px;
+
+}
+.prd
+{
+    line-height: 0px;
+   font-size: 18px; 
+}
+.pre
+{font-size: 15px;
+    color:gray;
+    
+}
+.imgcon
+{
+/* margin-top:50px;*/
+}
+.imgmain
+{
+
+color: darkcyan;    
+}
+.imgcona
+{
+    display: flex;
+}
+.imgconb
+{
+    display: flex;
+}
+.imgconc
+{
+    display: flex;
+}
+.imgcond
+{
+display: flex;
+}
+.midmain
+{
+ display: flex;
+justify-content: center;
+width: 100%;
+}
+.mid_a
+{width: 50%;
+display: flex;
+flex-direction: column;    
+justify-content: center;
+align-items: center;
+background-color: #d0e9ea;
+margin-right: 10px;
+    
+}
+.mid_b
+{width: 50%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-left: 10px;
+background-color: #edf8f5;
+}
+.circle
+{display: flex;
+justify-content:center;
+border: 1.5px solid  #77D7C8;
+border-radius: 40px;
+margin: 100px;
+width: 20%;
+height:70px;
+font-weight: 500;
+align-items: center;
+color: #1cb39b;
+}
+.mcircle
+{
+display: flex;
+justify-content: center;
+    
+}
+.footm
+{display: flex;
+width: 100%;
+justify-content:space-around;
+flex-direction: column;
+color:floralwhite;
+background-color: #273443; 
+    
+}
+.foot
+{display: flex;
+width: 100%;
+/*    align-items: flex-start;*/
+justify-content: space-around;
+font-size: 13px;
+margin-top: 50px;
+color:  rgba(255,255,255,0.6);
+font-weight: bolder;
+  
+
+
+}
+.footbot
+{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 15px;
+    width: 100%;
+    font-size: 13px;
+    line-height: 8px;
+    
+}
+.botom
+{display: flex;
+
+background-color: #232f3c;
+color: floralwhite;
+}
+
